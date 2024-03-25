@@ -37,6 +37,9 @@ const yourPackage = require('your-package-name');
 
 // Example usage
 
+## Demo
+A deployed demo of the project can be found [here]()
+
 ## Features
 List the main features of your project. Highlight what sets it apart from similar solutions and how users can benefit from these features.
 
@@ -47,20 +50,14 @@ List the main features of your project. Highlight what sets it apart from simila
 ## Notes
 Include any additional notes or considerations about your project. This could cover things like known issues, future plans, or important reminders for users.
 
-## Contribution Details
+## Contributing
 Explain how others can contribute to your project. This can include guidelines for bug reporting, feature requests, or code contributions.
 
-Fork the repository
-Create a new branch (git checkout -b feature)
-Make changes and commit them (git commit -am 'Add new feature')
-Push to the branch (git push origin feature)
-Create a pull request
+- Fork the repository.
+- Create a new branch (git checkout -b feature).
+- Make changes and commit them (git commit -am 'Add new feature').
+- Push to the branch (git push origin feature).
+- Create a pull request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgements
-List any individuals or organizations you would like to acknowledge for their contributions or support towards the project.
-```
-Feel free to customize this template according to your project's specific needs and requirements.
-```
